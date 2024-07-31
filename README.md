@@ -15,5 +15,31 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-![provided_mock_up](
+![provided_mock_up](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/mock%20up%20dashboard_atliq%20grands.png?raw=true)
+
+# Home 
+![home](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Dataset/Home.png?raw=true)
+
+# Intro
+![Intro](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Dataset/Info.png?raw=true)
+
+# Data Model
+![data model](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Dataset/Data_Model.png?raw=true)
+
+# Monthly View
+![monthly view](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Dataset/Monthly_view.png?raw=true)
+
+# Overall View
+![overall view](https://github.com/vasu292929/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Dataset/Overall_view.png?raw=true)
+
+
+## Some Important insights from the Dashboard
+
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- AtliQ Bay has the highest occupancy of 66%
+- Week 24 recorded the highest revenue among all, which is 139.6 Million
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- AtliQ lost around 298 Million in cancellation 
+- Elite type rooms has the most booking and as well higher cancellation rate
 
