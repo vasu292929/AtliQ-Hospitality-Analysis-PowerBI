@@ -15,3 +15,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
+![provided_mock_up](
+
